@@ -1,3 +1,8 @@
+
+## About this project
+
+This project was created as a learning exercise to help me better understand React and its ecosystem, including TypeScript and Vite. Throughout the development, I explored modern tools and best practices for building a React application, such as using ESLint for code quality, setting up hot module replacement (HMR), and experimenting with different plugins. It served as a great opportunity to gain hands-on experience with a modern front-end stack.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
